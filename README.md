@@ -12,9 +12,9 @@
 + A server.js (nodejs) file that serves an index.html written with
     + that runs by “node server.js”
     + external link: https://localhost:3000 views SPA (index.html…)
-- A d3 data display component using
-. updatable data that is originally from a JSON file
-. a join with enter, exit and transitions
++ A d3 data display component using
+    + updatable data that is originally from a JSON file
+    + a join with enter, exit and transitions
 - A non trivial css file with
 . Hover/focus/active codes
 . Borders with rounded corners
