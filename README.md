@@ -1,13 +1,14 @@
 # WebTech-Project
-## Project: Franken-showcase of Web Tech
+### Project: Franken-showcase of Web Tech
 
-### Your SPA project must have:
+#### Your SPA project must have:
 1. A project git : github site and heorku site
 2. A READ_ME.txt file with (in this order)
     + Name: Dongkil Shin
     + Email: dshin47@uwo.ca
-. Project Check-list
-. a git log --all
+    + Project Check-list : below
+    + a git log --all : bottom
+3. Project Check-List
 - A server.js (nodejs) file that serves an index.html written with
 . that runs by “node server.js”
 . external link: https://localhost:3000 views your SPA (index.html…)
