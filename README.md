@@ -1,13 +1,10 @@
-# webtech-project1
-Project: Franken-showcase of web tech
-Due Tuesday November 30th 11:55pm
+# WebTech-Project
+## Project: Franken-showcase of Web Tech
 
-Create an SPA that features some interactive data with d3. Try to use this SPA as an exploration of code/tech examples to refer to later. This means writing comments for your future self that will help you understand what you did. Also, you may be able to add this to your portfolio.
-
-Your SPA project must have:
-- A project git : github or heroku
+### Your SPA project must have:
+- A project git : github site and heorku site
 - A READ_ME.txt file with (in this order)
-. your name and email
+. Name and email
 . Project Check-list
 . a git log --all
 - A server.js (nodejs) file that serves an index.html written with
