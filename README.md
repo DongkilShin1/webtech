@@ -4,8 +4,8 @@
 ### Your SPA project must have:
 1. A project git : github site and heorku site
 2. A READ_ME.txt file with (in this order)
-    + Name: Dongkil Shin
-    + Email: dshin47@uwo.ca
+  + Name: Dongkil Shin
+  + Email: dshin47@uwo.ca
 . Project Check-list
 . a git log --all
 - A server.js (nodejs) file that serves an index.html written with
