@@ -1,7 +1,7 @@
 # WebTech-Project
 ### Project: Franken-showcase of Web Tech
 
-#### Your SPA project must have:
+#### SPA(Single Page Application) project must have:
 1. A project git : github site and heorku site
 2. A READ_ME.txt file with (in this order)
     + Name: Dongkil Shin
